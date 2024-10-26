@@ -1,0 +1,67 @@
+body{
+    background-color: lightpink;
+
+}
+h1#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Rockwell Extra Bold";
+    font-size: 18px;
+}
+#mydivision{
+    background-color:dodgerblue ;
+    margin: 40px;
+    padding: 30px;
+}
+#test{
+    background-color:lightpink;
+    margin: 40px;
+    padding: 40px;
+color: white;
+display: flex;
+}
+#test img{
+    width: 400px;
+    height: 400px;
+    border-radius: 400px;
+}
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: red;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+    text-shadow:yellow;
+}
+#accounting{
+    background-color:dodgerblue;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+    text-shadow: #55ff00;
+}
+#payment{
+    background-color: #55ff00;
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+    text-shadow: darkblue;
+}
+#advertisement img{
+    width: 300px;
+    height: 300px;
+}
+#accounting img{
+    width: 300px;
+    height: 300px;
+}
+#payment img{
+    width: 300px;
+    height: 300px;
+}
+#advertisement:hover{ background-color: white}
+#accounting:hover{ background-color: white}
+#payment:hover{ background-color: white}
